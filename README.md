@@ -17,7 +17,7 @@
  - Utilize and Enhance a Comprehensive Dataset
  - Implement Effective Preprocessing and Feature Extraction
  - Deep Learning model(CNN) and interpretation using XAI
- - Real Time Prediction
+ - Real Time Prediction - Image to Text, Text to Speech
 
 ## Dependencies
 
