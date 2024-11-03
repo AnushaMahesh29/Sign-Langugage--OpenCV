@@ -9,7 +9,7 @@
  Our model is trained on the ISL dataset consisting of 42,000 images representing 35 distinct
  sign language gestures, each corresponding to unique characters - A to Z and numbers - 1 to 9.
  
- Datase Link:https://www.kaggle.com/datasets/prathumarikeri/indian-sign-language-isl
+ Dataset Link:https://www.kaggle.com/datasets/prathumarikeri/indian-sign-language-isl
  
  #### The images are reduced to 3500, 100 images in each directory.
  
